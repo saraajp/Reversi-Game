@@ -1,4 +1,4 @@
-# Reversi-Game (Não totalmento acabado!)
+# Reversi-Game 
 
 1) O jogo já está práticamente acabado, no entando, ainda existem um bugszinhos :p
 2) Não está optimizado ao máximo, é algo que ainda pode melhorar
